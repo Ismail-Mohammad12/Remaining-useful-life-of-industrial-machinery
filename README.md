@@ -1,4 +1,4 @@
-# Remaining useful life of industrial machinery(RUL)
+# Remaining useful life of industrial machinery(RUL) ('Still under work')
 In this project, The remaining working capability of a machine has been analysed and modeled to predict for the machine based on the sensor data such as the vibration,temperature and so on. This industrial application of AI models are extremely beneficial in terms of managing the downtime in the factories before any fault actually occurs, and provides a headstart for the personnel to perform maintenance before any fault occurs and it is also useful in saving time,money and effort where it eliminates the extremely early maintenance and provides exacty how many more cycles are there for a specific machineto go fault. The responsible personnel can set a threshold 5, where the model triggers a maintenance alarm.
 
 The dataset can be downloaded from the folling kaggle link, where there are many different variables related to 100 machines associated with failures. 
