@@ -9,3 +9,5 @@ In the following barplot, There are multiple models acrossdifferent noise levels
 ![R² Comparison](Plots_for_project1/Comparison_plot.png)
 
 
+
+![My Plot](plots/ALL_MODELS_R2_SCORES.png)
