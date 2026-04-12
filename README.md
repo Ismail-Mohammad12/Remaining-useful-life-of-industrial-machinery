@@ -10,4 +10,4 @@ In the following barplot, There are multiple models acrossdifferent noise levels
 
 
 
-![My Plot](plots/ALL_MODELS_R2_SCORES.png)
+![My Plot](Plots/ALL_MODELS_R2_SCORES.png)
